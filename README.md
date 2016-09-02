@@ -1,4 +1,4 @@
-# Nessie-JavaScript-SDK
+# Nessie-JavaScript-SDK 2
 ##Synopsis
 Capital One Nessie API SDK written in JavasScript and wrapped in require-jquery. This SDK can be easily embeddded in web apps.
 ##Installation for Web App
